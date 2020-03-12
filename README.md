@@ -8,6 +8,6 @@ Login System With Cookies, Sessions &amp; Tokens
 
 # Test Credentials
 I used email rather than username(personal preference)
-Test Email: test@mail.com
-Test Password: maker7
+- Test Email: test@mail.com
+- Test Password: maker7
 
