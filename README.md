@@ -1,6 +1,6 @@
 # Advanced-Login-System
 Login System With Cookies, Sessions &amp; Tokens. 
-Best used if a system requires login before a user can use the system
+- Best used if a system requires login before a user can use the system
 
 # How to Run Test
 1. Import the accounts.sql database file into your databse
